@@ -55,7 +55,7 @@ O projeto foi dividido nas seguintes etapas:
 
 2.  Instale a biblioteca Prophet usando o comando: `!pip install prophet`
 
-3.  Faça o upload dos arquivos CSV com os dados meteorológicos da estação de Uberlândia (`dados_A507_D_2005-01-01_2024-12-31.csv`) e da NASA (`NASA_data_mean_temperatures.txt`) para o seu Google Drive
+3.  Faça o upload dos arquivos CSV com os dados meteorológicos da estação de Uberlândia (`dados_A507_D_2005-01-01_2024-12-31.csv`) e da NASA (`NASA_data_mean_temperatures.txt`) para o seu Google Drive. Você pode encontrar os arquivos nesse repositório, no diretório "data" ou <a href="https://github.com/paula-belr/series-temporais-temperatura/tree/main/data" target="_blank">clicando aqui</a>
 
 4.  Altere o caminho do arquivo CSV no código para refletir o local onde você salvou o arquivo, dentro das células de código que carregam os dados: 
 
